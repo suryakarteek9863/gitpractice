@@ -1,2 +1,4 @@
 hi hello
+welcome
+how are you 
 bye
