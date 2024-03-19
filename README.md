@@ -1,2 +1,2 @@
 # gitpractice
-sample git 
+sample git practice lab
